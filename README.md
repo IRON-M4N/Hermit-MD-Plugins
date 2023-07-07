@@ -210,3 +210,17 @@ https://gist.github.com/IRONMAN444FF/695b04a4be6a9b5c8ae11b32c195f0e8
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ TikTok Videos</h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/1a538747951f749ca5762aa3d39aba25
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ɢɪʀʟꜱ ᴀꜱᴜᴩᴀɴ ᴠɪᴅᴇᴏꜱ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴇхч
+<br />
+<br />
+<br />
