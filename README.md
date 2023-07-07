@@ -168,3 +168,17 @@ https://gist.github.com/lokixjs/cb1ff4e1c5d1e52bddb33563126b0c5f
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Shiro </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/f87033340def016ae735855258b7ecd2
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱʜɪʀᴏ
+<br />
+<br />
+<br />
