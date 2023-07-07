@@ -34,3 +34,17 @@ https://gist.github.com/IRONMAN444FF/945aaee4b716cee811d973c6c4b459ac
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Mention </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/82179cb9e5634d0b1f89a83dc90b10c5
+```
+ᴜꜱᴇᴀɢᴇ : ᴄᴜꜱᴛᴏᴍ ᴍᴇɴᴛɪᴏɴ ( ɴᴏ ʙᴜɢ ) <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴍɴᴇᴡ
+<br />
+<br />
+<br />
