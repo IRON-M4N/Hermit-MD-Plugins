@@ -393,6 +393,20 @@ https://gist.github.com/lokixjs/a12348b2d7769601a3f0dd660cd9f85b
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Find </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/3925a4598e47958535b495a114f99ab6
+```
+ᴜꜱᴇᴀɢᴇ : ғᴏʀ ғɪɴᴅɪɴɢ ꜱᴏɴɢ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ғɪɴᴅ
+<br />
+<br />
+<br />
 <h4 align="center">  ᐉ Telegram Sticker</h1>
 
 © :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
@@ -404,6 +418,34 @@ https://gist.github.com/lokixjs/4c0fdb33dea3b571062b7fa8b48f6839
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
 ᴩᴀᴛᴛᴇʀɴ : ᴛꜱ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Status Saver </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/43d20150dc295b8fa3c327a7e754a31c
+```
+ᴜꜱᴇᴀɢᴇ : ғᴏʀ ꜱᴀᴠɪɴɢ ꜱᴛᴀᴛᴜꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱɴᴛ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Model</h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/119a4865b827228274591d66bd2e867e
+```
+ᴜꜱᴇᴀɢᴇ : ᴍᴏᴅᴇʟ ᴏꜰ ᴇᴅɪᴛᴀʙʟᴇ ᴍꜱɢ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : хᴍᴇɴᴜ
 <br />
 <br />
 <br />
