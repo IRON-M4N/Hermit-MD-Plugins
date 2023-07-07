@@ -2,6 +2,7 @@
 ![alt text](https://i.imgur.com/rKAmXiH.jpeg)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF0000&width=435&lines=Plugins)](https://git.io/typing-svg)
+`xplugin`
 `Waifu`
 `Gojo`
 `Mention`
@@ -14,6 +15,20 @@
 `Kitsune`
 `Demon Slayer`
 
+<h4 align="center">  ᐉ All Plugin </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/dbdf077c10c99f1429aeb0cc3b5932de/raw
+```
+ᴜꜱᴇᴀɢᴇ : ᴀʟʟ ᴩʟᴜɢɪɴ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : хᴩʟᴜɢɪɴ
+<br />
+<br />
+<br />
 <h4 align="center">  ᐉ Waifu </h1>
 
 © :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
