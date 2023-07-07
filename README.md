@@ -491,3 +491,17 @@ https://gist.github.com/IRONMAN444FF/916366a05f848b255f2a61d3b60849d4
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Star </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/835eabfebb412d6d75ae4855c4ad6b28
+```
+ᴜꜱᴇᴀɢᴇ : ᴀɴɪᴍᴀᴛᴇᴅ ꜱᴛᴀʀ ᴛᴇxᴛ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴛᴀʀ
+<br />
+<br />
+<br />
