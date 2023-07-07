@@ -2,9 +2,17 @@
 ![alt text](https://i.imgur.com/rKAmXiH.jpeg)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF0000&width=435&lines=Plugins)](https://git.io/typing-svg)
-`waifu`
-`gojo`
-`mention`
+`Waifu`
+`Gojo`
+`Mention`
+`Trap`
+`Stickers Pack`
+`Neko`
+`hent4i`
+`Couple Sticker`
+`Avm`
+`Kitsune`
+`Demon Slayer`
 
 <h4 align="center">  ᐉ Waifu </h1>
 
