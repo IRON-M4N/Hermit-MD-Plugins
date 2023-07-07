@@ -224,3 +224,17 @@ https://gist.github.com/lokixjs/1a538747951f749ca5762aa3d39aba25
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Status</h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/feb261bf99276bcd2db10ff6db7d9018
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴍᴀʟᴀчᴀʟᴀᴍ ꜱᴛᴀᴛᴜꜱ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴛᴀᴛᴜꜱ
+<br />
+<br />
+<br />
