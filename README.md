@@ -13,10 +13,24 @@
 ```js
 https://gist.github.com/IRONMAN444FF/a66a5c91a32238acc3d9409c1de76368
 ```
-useage : ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ɢʀɪʟꜱ ᴩʜᴏᴛᴏ <br />
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ᴡᴀɪꜰᴜ ᴩʜᴏᴛᴏ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
 ᴩᴀᴛᴛᴇʀɴ : ᴡᴀɪꜰᴜ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Gojo </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/945aaee4b716cee811d973c6c4b459ac
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ɢᴏᴊᴏ ᴩʜᴏᴛᴏ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ɢᴏᴊᴏ
 <br />
 <br />
 <br />
