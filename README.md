@@ -76,7 +76,7 @@ https://gist.github.com/lokixjs/10d189606480595c2a9f3e82870b1639
 <br />
 <br />
 <br />
-<h4 align="center">  ᐉ neko </h1>
+<h4 align="center">  ᐉ Neko </h1>
 
 © :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
 
