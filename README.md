@@ -309,3 +309,31 @@ https://gist.github.com/lokixjs/cdae95cc0eac45bdaa9f65bcea2a1abd
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Naruto </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/e83eb615beeebb7431c9fd18663d77e3
+```
+ᴜꜱᴇᴀɢᴇ : ɴᴀʀᴜᴛᴏ ʀᴀɴᴅᴏᴍ ᴠɪᴅᴇᴏꜱ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ɴᴀʀᴜᴛᴏ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Moon </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/2e996da831bedbd63f3d6d8017fe87e7
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴏᴏᴏɴ
+<br />
+<br />
+<br />
