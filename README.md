@@ -252,3 +252,31 @@ https://gist.github.com/IRONMAN444FF/8d5e72a40abf168cef44ea53707434e3
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Fox Girls Pic </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/18efab7cc70d462e1ed0867cc0ae1628
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴇᴛ ʀᴀɴᴅᴏᴍ ғᴏх ɢɪʀʟꜱ ᴩɪᴄ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ғᴏхɢɪʀʟꜱ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Cat Girl Pic </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/29c5c3c7030deaec46176d54953e8df5
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴇᴛ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ɢɪʀʟꜱ ᴩɪᴄ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ᴄᴀᴛɢɪʀʟ
+<br />
+<br />
+<br />
