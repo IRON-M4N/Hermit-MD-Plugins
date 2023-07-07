@@ -182,3 +182,17 @@ https://gist.github.com/IRONMAN444FF/f87033340def016ae735855258b7ecd2
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Game </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/537aa6bdfe48e57b88adb206f210e6c7
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴀᴍᴇ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ɢᴩʟᴀч
+<br />
+<br />
+<br />
