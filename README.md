@@ -337,3 +337,17 @@ https://gist.github.com/IRONMAN444FF/2e996da831bedbd63f3d6d8017fe87e7
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Couple Dp </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/4696d665677c7b075996b6e86d40b0a0
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴇᴛ ᴄᴏᴜᴩʟᴇ ᴅᴩ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴅᴩ
+<br />
+<br />
+<br />
