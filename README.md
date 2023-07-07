@@ -104,20 +104,6 @@ https://gist.github.com/IRONMAN444FF/f3af51830a490c474a71d93055b0e083
 <br />
 <br />
 <br />
-<h4 align="center">  ᐉ hent4i </h1>
-
-© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
-
-```js
-https://gist.github.com/IRONMAN444FF/f3af51830a490c474a71d93055b0e083
-```
-ᴜꜱᴇᴀɢᴇ :  <br />
-ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
-ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
-ᴩᴀᴛᴛᴇʀɴ : ʜᴇɴᴛ4ᴀ
-<br />
-<br />
-<br />
 <h4 align="center">  ᐉ Couple Sticker </h1>
 
 © :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
