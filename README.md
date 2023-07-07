@@ -48,3 +48,59 @@ https://gist.github.com/lokixjs/82179cb9e5634d0b1f89a83dc90b10c5
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Trap </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/b352e7a2458604f102ecfde0e0639f0f
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ᴛʀᴀᴩ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Stickers Pack </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/10d189606480595c2a9f3e82870b1639
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴇᴛ ꜱᴛɪᴄᴋᴇʀꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴋɪꜱꜱ, ꜱᴛᴏᴍ, ꜱᴅᴀɴᴄᴇ, ꜱᴀɴɪᴍᴇ, ꜱʙᴀʙч
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ neko </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/c36142c0874ce8d0b329c380767d4a79
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ɴᴇᴋᴏ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Hack </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/182b49ad3d636ace5052b09f542b5d14
+```
+ᴜꜱᴇᴀɢᴇ : ꜰᴜɴ ʜᴀᴄᴋɪɴɢ ᴛᴇхᴛ ꜱᴇɴᴛᴇʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʜᴀᴄᴋ
+<br />
+<br />
+<br />
