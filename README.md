@@ -463,3 +463,31 @@ https://gist.github.com/lokixjs/44fd4b3b17ec2cccb0171d06def9a4b4
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Moon v2</h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ_Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/07015a058e77c020017a5161cd376c14
+```
+ᴜꜱᴇᴀɢᴇ : ᴀɴɪᴍᴀᴛᴇᴅ ᴍᴏᴏɴ ᴛᴇxᴛ ᴠᴇʀꜱɪᴏɴ 2 <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜰᴍᴏᴏɴ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Dumb </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ_Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/916366a05f848b255f2a61d3b60849d4
+```
+ᴜꜱᴇᴀɢᴇ : ᴀɴɪᴍᴀᴛᴇᴅ ᴛᴇxᴛ ᴛᴏ ꜱᴀʏ ᴜʀ ᴅᴜᴍʙ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴅᴜᴍʙ
+<br />
+<br />
+<br />
