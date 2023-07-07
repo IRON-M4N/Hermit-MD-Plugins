@@ -104,3 +104,17 @@ https://gist.github.com/lokixjs/182b49ad3d636ace5052b09f542b5d14
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ hent4i </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/f3af51830a490c474a71d93055b0e083
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ʜᴇɴᴛ4ᴀ
+<br />
+<br />
+<br />
