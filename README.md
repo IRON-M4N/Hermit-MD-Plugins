@@ -449,3 +449,17 @@ https://gist.github.com/lokixjs/119a4865b827228274591d66bd2e867e
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Fun</h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/44fd4b3b17ec2cccb0171d06def9a4b4
+```
+ᴜꜱᴇᴀɢᴇ : ғᴜɴ ᴩʟᴜɢɪɴ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : хʀх
+<br />
+<br />
+<br />
