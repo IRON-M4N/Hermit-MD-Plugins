@@ -90,17 +90,17 @@ https://gist.github.com/IRONMAN444FF/c36142c0874ce8d0b329c380767d4a79
 <br />
 <br />
 <br />
-<h4 align="center">  ᐉ Hack </h1>
+<h4 align="center">  ᐉ hent4i </h1>
 
-© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
 
 ```js
-https://gist.github.com/lokixjs/182b49ad3d636ace5052b09f542b5d14
+https://gist.github.com/IRONMAN444FF/f3af51830a490c474a71d93055b0e083
 ```
-ᴜꜱᴇᴀɢᴇ : ꜰᴜɴ ʜᴀᴄᴋɪɴɢ ᴛᴇхᴛ ꜱᴇɴᴛᴇʀ <br />
+ᴜꜱᴇᴀɢᴇ :  <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
-ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
-ᴩᴀᴛᴛᴇʀɴ : ʜᴀᴄᴋ
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ʜᴇɴᴛ4ᴀ
 <br />
 <br />
 <br />
@@ -115,6 +115,62 @@ https://gist.github.com/IRONMAN444FF/f3af51830a490c474a71d93055b0e083
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
 ᴩᴀᴛᴛᴇʀɴ : ʜᴇɴᴛ4ᴀ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Couple Sticker </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/1330d443143197e1b5b45498c8194dbc
+```
+ᴜꜱᴇᴀɢᴇ : ᴄᴏᴜᴩʟᴇ ꜱᴛɪᴄᴋᴇʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴄꜱ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Avm  </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/fcb5b13f990469bfbbd518c7a38343fc
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ᴠɪᴅᴇᴏ  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴠᴍ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Kitsune </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/2334c5972fdbb11d0915732928399c04
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ᴋɪᴛꜱᴜɴᴇ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Demon Slayer </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/cb1ff4e1c5d1e52bddb33563126b0c5f
+```
+ᴜꜱᴇᴀɢᴇ : ᴅᴇᴍᴏɴ ꜱʟᴀчᴇʀ ᴠɪᴅᴇᴏ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴅꜱ
 <br />
 <br />
 <br />
