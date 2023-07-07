@@ -196,3 +196,17 @@ https://gist.github.com/lokixjs/537aa6bdfe48e57b88adb206f210e6c7
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Senko </h1>
+
+© :<a href="http://www.github.com/IRONMAN444FF">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/695b04a4be6a9b5c8ae11b32c195f0e8
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱᴇɴᴋᴏ
+<br />
+<br />
+<br />
