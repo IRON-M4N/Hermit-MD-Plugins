@@ -280,3 +280,17 @@ https://gist.github.com/IRONMAN444FF/29c5c3c7030deaec46176d54953e8df5
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Reaction </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/cdae95cc0eac45bdaa9f65bcea2a1abd
+```
+ᴜꜱᴇᴀɢᴇ : ᴏɴʟч ʀᴇᴀᴄᴛɪᴏɴ ᴏɴ ᴄᴏᴍᴍᴇɴᴛꜱ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʀᴇᴀᴄᴛɪᴏɴ
+<br />
+<br />
+<br />
