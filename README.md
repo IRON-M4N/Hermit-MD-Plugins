@@ -351,3 +351,59 @@ https://gist.github.com/lokixjs/4696d665677c7b075996b6e86d40b0a0
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Vanime </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/8584f441b5646bd8ca5a2ec1f75dc179
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ᴠɪᴅᴇᴏꜱ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴠᴀɴɪᴍᴇ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Loli </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/d06be28445977b4e13f1233e4acb4047
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ᴀɴɪᴍᴇ ᴩɪᴄ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʟᴏʟɪ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Sfun </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/a12348b2d7769601a3f0dd660cd9f85b
+```
+ᴜꜱᴇᴀɢᴇ : ғᴜɴч ꜱᴛɪᴄᴋᴇʀꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱғᴜɴ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Telegram Sticker</h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/4c0fdb33dea3b571062b7fa8b48f6839
+```
+ᴜꜱᴇᴀɢᴇ : ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛɪᴄᴋᴇʀ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ<br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴛꜱ
+<br />
+<br />
+<br />
