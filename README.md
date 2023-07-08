@@ -43,7 +43,7 @@
 © :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
 
 ```js
-https://gist.github.com/lokixjs/dbdf077c10c99f1429aeb0cc3b5932de/raw
+https://gist.github.com/lokixjs/dbdf077c10c99f1429aeb0cc3b5932de
 ```
 ᴜꜱᴇᴀɢᴇ : ᴀʟʟ ᴩʟᴜɢɪɴ<br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
