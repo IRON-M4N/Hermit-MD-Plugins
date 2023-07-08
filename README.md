@@ -528,6 +528,20 @@ https://gist.github.com/IRONMAN444FF/835eabfebb412d6d75ae4855c4ad6b28
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Love </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/bf0da3b00d11280b1b3857f3f4ce380d
+```
+ᴜꜱᴇᴀɢᴇ : ʟᴏᴠᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʟᴏᴠᴇ
+<br />
+<br />
+<br />
 
 </details> 
     
