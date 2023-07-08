@@ -14,6 +14,29 @@
 `Avm`
 `Kitsune`
 `Demon Slayer`
+`Shiro`
+`Game`
+`Senko`
+`TikTok Videos`
+`Status`
+`Mengumin`
+`Fox Girls Pic`
+`Cat Girl Pic`
+`Reaction`
+`Naruto`
+`Moon`
+`Couple Dp`
+`Vanime`
+`Loli`
+`Sfun`
+`Find`
+`Telegram Sticker`
+`Status Saver`
+`Model`
+`Fun`
+`Moon v2`
+`Dumb`
+`Star`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
