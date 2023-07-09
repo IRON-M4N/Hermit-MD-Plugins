@@ -37,6 +37,7 @@
 `Moon v2`
 `Dumb`
 `Star`
+`Love`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
