@@ -640,10 +640,10 @@ https://gist.github.com/lokixjs/fe0ad97e156560df1eb08a14db6e8b3a
 ```js
 https://gist.github.com/lokixjs/229a1c2870c1da90ebbef857fe44b785
 ```
-ᴜꜱᴇᴀɢᴇ :  <br />
+ᴜꜱᴇᴀɢᴇ : ɢᴀᴍᴇ ᴛʀᴜᴛʜ&ᴅᴀʀᴇ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
-ᴩᴀᴛᴛᴇʀɴ : 
+ᴩᴀᴛᴛᴇʀɴ : ᴛʀᴜᴛʜ/ᴅᴀʀᴇ
 <br />
 <br />
 <br />
