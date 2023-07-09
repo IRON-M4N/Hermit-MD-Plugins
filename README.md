@@ -543,6 +543,20 @@ https://gist.github.com/lokixjs/bf0da3b00d11280b1b3857f3f4ce380d
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Pron Star </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/869ca6c99936fa12858f0124744911b1
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : 
+<br />
+<br />
+<br />
 
 </details> 
     
