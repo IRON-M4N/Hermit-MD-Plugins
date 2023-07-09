@@ -39,6 +39,11 @@
 `Star`
 `Love`
 `Pron Star`
+`Genshin`
+`Vampire`
+`Maid`
+`Solar`
+`Snake`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
