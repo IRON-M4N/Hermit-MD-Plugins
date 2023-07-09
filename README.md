@@ -44,6 +44,7 @@
 `Maid`
 `Solar`
 `Snake`
+`Truth&Dare`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
