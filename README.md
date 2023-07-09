@@ -38,6 +38,7 @@
 `Dumb`
 `Star`
 `Love`
+`Pron Star`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
