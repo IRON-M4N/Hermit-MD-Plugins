@@ -103,7 +103,7 @@ https://gist.github.com/lokixjs/82179cb9e5634d0b1f89a83dc90b10c5
 ```js
 https://gist.github.com/IRONMAN444FF/b352e7a2458604f102ecfde0e0639f0f
 ```
-ᴜꜱᴇᴀɢᴇ :  <br />
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ 18+ ɪᴍᴀɢᴇꜱ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
 ᴩᴀᴛᴛᴇʀɴ : ᴛʀᴀᴩ
@@ -131,7 +131,7 @@ https://gist.github.com/lokixjs/10d189606480595c2a9f3e82870b1639
 ```js
 https://gist.github.com/IRONMAN444FF/c36142c0874ce8d0b329c380767d4a79
 ```
-ᴜꜱᴇᴀɢᴇ :  <br />
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ 18+ ɪᴍᴀɢᴇꜱ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
 ᴩᴀᴛᴛᴇʀɴ : ɴᴇᴋᴏ
@@ -145,7 +145,7 @@ https://gist.github.com/IRONMAN444FF/c36142c0874ce8d0b329c380767d4a79
 ```js
 https://gist.github.com/IRONMAN444FF/f3af51830a490c474a71d93055b0e083
 ```
-ᴜꜱᴇᴀɢᴇ :  <br />
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ 18+ ɪᴍᴀɢᴇꜱ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ<br />
 ᴩᴀᴛᴛᴇʀɴ : ʜᴇɴᴛ4ᴀ
