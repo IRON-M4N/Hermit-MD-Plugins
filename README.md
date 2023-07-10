@@ -648,6 +648,35 @@ https://gist.github.com/lokixjs/229a1c2870c1da90ebbef857fe44b785
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Cr7 </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/6ea90ff975eb65fdf28323d5eb3a15b8
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : 
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Fly </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/0b2be7da8fdcf73e95ca38e237152eb8
+```
+ᴜꜱᴇᴀɢᴇ :  <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : 
+<br />
+<br />
+<br />
+
 
 </details> 
     
