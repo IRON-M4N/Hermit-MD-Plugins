@@ -45,6 +45,8 @@
 `Solar`
 `Snake`
 `Truth&Dare`
+`Cr7`
+`Fly`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -655,10 +657,10 @@ https://gist.github.com/lokixjs/229a1c2870c1da90ebbef857fe44b785
 ```js
 https://gist.github.com/lokixjs/6ea90ff975eb65fdf28323d5eb3a15b8
 ```
-ᴜꜱᴇᴀɢᴇ :  <br />
+ᴜꜱᴇᴀɢᴇ : ᴄʀ7 ꜱᴛᴀᴛᴜꜱ ᴠɪᴅᴇᴏꜱ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
-ᴩᴀᴛᴛᴇʀɴ : 
+ᴩᴀᴛᴛᴇʀɴ : ᴄʀ7
 <br />
 <br />
 <br />
@@ -669,10 +671,10 @@ https://gist.github.com/lokixjs/6ea90ff975eb65fdf28323d5eb3a15b8
 ```js
 https://gist.github.com/lokixjs/0b2be7da8fdcf73e95ca38e237152eb8
 ```
-ᴜꜱᴇᴀɢᴇ :  <br />
+ᴜꜱᴇᴀɢᴇ : ꜰᴜɴ ᴩʟᴜɢɪɴ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
-ᴩᴀᴛᴛᴇʀɴ : 
+ᴩᴀᴛᴛᴇʀɴ : ꜰʟч
 <br />
 <br />
 <br />
