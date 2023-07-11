@@ -47,6 +47,12 @@
 `Truth&Dare`
 `Cr7`
 `Fly`
+´Vgirl`
+`Mgirl`
+`Igirl`
+`Kgirl`
+`Cgirl`
+`Jgirl`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
