@@ -601,7 +601,7 @@ https://gist.github.com/IRONMAN444FF/61bf3ec4b6337ce186c3cd2ee355a5a2
 ```js
 https://gist.githubusercontent.com/IRONMAN444FF/8640a0605adc36bd2451207da2b97e80
 ```
-ᴜꜱᴇᴀɢᴇ : ᴍᴀɪᴅ ɪᴍᴀɢᴇꜱ <br />
+ᴜꜱᴇᴀɢᴇ : ᴍᴀɪᴅ ɪᴍᴀɢᴇꜱ 18+ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
 ᴩᴀᴛᴛᴇʀɴ : ᴍᴀɪᴅ
@@ -675,6 +675,90 @@ https://gist.github.com/lokixjs/0b2be7da8fdcf73e95ca38e237152eb8
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
 ᴩᴀᴛᴛᴇʀɴ : ꜰʟч
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Vgirl </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/16a9852a62337dc4f239e8c797d82dcd
+```
+ᴜꜱᴇᴀɢᴇ : ᴠɪᴇᴛɴᴀᴍᴇꜱᴇ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴠɢɪʀʟ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Mgirl </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/0f48e806d6b5efe9fae38576a64514e5
+```
+ᴜꜱᴇᴀɢᴇ : ᴍᴀʟчꜱɪᴀ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴍɢɪʀʟ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Igirl </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/4e75c25a8e49d2471047740ae3b23944
+```
+ᴜꜱᴇᴀɢᴇ : ɪɴᴅᴏɴᴇꜱɪᴀ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ɪɢɪʀʟ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Kgirl </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/402399ce3654f5c83fcef7d37b59f6fc
+```
+ᴜꜱᴇᴀɢᴇ : ᴋᴏʀᴇᴀ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴋɢɪʀʟ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Cgirl </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/04e0fccff01db383c799a3d57d114ebe
+```
+ᴜꜱᴇᴀɢᴇ : ᴄʜɪɴᴀɴɪ'ꜱ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴄɢɪʀʟ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Jgirl </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/20e995975de15588768e984b630c7be8/raw
+```
+ᴜꜱᴇᴀɢᴇ : ᴊᴀᴩᴀɴᴇ'ꜱ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴊɢɪʀʟ
 <br />
 <br />
 <br />
