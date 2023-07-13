@@ -47,7 +47,7 @@
 `Truth&Dare`
 `Cr7`
 `Fly`
-´Vgirl`
+`Vgirl`
 `Mgirl`
 `Igirl`
 `Kgirl`
