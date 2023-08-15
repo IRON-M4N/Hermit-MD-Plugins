@@ -53,6 +53,7 @@
 `Kgirl`
 `Cgirl`
 `Jgirl`
+`Slot`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -765,6 +766,20 @@ https://gist.github.com/IRONMAN444FF/20e995975de15588768e984b630c7be8/raw
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
 ᴩᴀᴛᴛᴇʀɴ : ᴊɢɪʀʟ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Slot </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/293a1ad206cbffd09952c324a384b1bf
+```
+ᴜꜱᴇᴀɢᴇ : ꜱʟᴏᴛ ɢᴀᴍᴇ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜱʟᴏᴛ
 <br />
 <br />
 <br />
