@@ -783,6 +783,20 @@ https://gist.github.com/lokixjs/293a1ad206cbffd09952c324a384b1bf
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Hack 2.0 </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/77b3ffd5c9c435bdc3a12db7f3087dcf
+```
+ᴜꜱᴇᴀɢᴇ : ꜰᴜɴ ʜᴀᴄᴋ ᴛᴇxᴛ ꜱᴇɴᴛɪɴɢ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʜᴀᴄᴋ
+<br />
+<br />
+<br />
 
 
 </details> 
