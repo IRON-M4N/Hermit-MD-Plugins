@@ -57,6 +57,8 @@
 `Slot`
 `Hack 2.0`
 `Fun Pack`
+`Uncensored`
+`Oppai`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -825,6 +827,34 @@ https://gist.github.com/lokixjs/84821f7f9dcffdc707a4e363e3d83e88
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
 ᴩᴀᴛᴛᴇʀɴ : ꜰᴍᴇɴᴜ, ʙᴅᴀy, ᴍ8, ᴍ9, ʀᴜɴ, ʜᴇʜᴇ, ɴ3, ɴ4, ɴ5, ɴ6
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Uncensored </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/d9c23186ffba82832cdfe52bb19feb88/raw
+```
+ᴜꜱᴇᴀɢᴇ : 18+ ɪᴍᴀɢᴇ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴜɴᴄᴇɴꜱᴏʀᴇᴅ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Oppai </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/c5365255f7b48a5f5342d9c75d9e1082/raw
+```
+ᴜꜱᴇᴀɢᴇ : ᴀɴɪᴍᴇ ɢɪʀʟꜱ ʀᴀɴᴅᴏᴍ ᴩɪᴄ'ꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴏᴩᴩᴀɪ
 <br />
 <br />
 <br />
