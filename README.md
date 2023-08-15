@@ -56,6 +56,7 @@
 `Jgirl`
 `Slot`
 `Hack 2.0`
+`Fun Pack`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
