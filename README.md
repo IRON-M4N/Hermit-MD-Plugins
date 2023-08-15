@@ -8,6 +8,7 @@
 `Mention`
 `Trap`
 `Stickers Pack`
+`Hack`
 `Neko`
 `hent4i`
 `Couple Sticker`
@@ -54,6 +55,7 @@
 `Cgirl`
 `Jgirl`
 `Slot`
+`Hack 2.0`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -108,6 +110,20 @@ https://gist.github.com/lokixjs/82179cb9e5634d0b1f89a83dc90b10c5
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
 ᴩᴀᴛᴛᴇʀɴ : ᴍɴᴇᴡ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Hack </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/182b49ad3d636ace5052b09f542b5d14
+```
+ᴜꜱᴇᴀɢᴇ : ʜᴀᴄᴋɪɴɢ ᴛᴇxᴛ ꜱᴇɴᴛɪɴɢ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʜᴀᴄᴋ
 <br />
 <br />
 <br />
@@ -797,6 +813,21 @@ https://gist.github.com/lokixjs/77b3ffd5c9c435bdc3a12db7f3087dcf
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Fun Pack </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/84821f7f9dcffdc707a4e363e3d83e88
+```
+ᴜꜱᴇᴀɢᴇ : ꜰᴜɴy ᴛᴇxᴛ ꜱᴇɴᴛɪɴɢ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ꜰᴍᴇɴᴜ, ʙᴅᴀy, ᴍ8, ᴍ9, ʀᴜɴ, ʜᴇʜᴇ, ɴ3, ɴ4, ɴ5, ɴ6
+<br />
+<br />
+<br />
+
 
 
 </details> 
