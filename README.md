@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="aqS7zeVrgUzhKDo7GZO3ALO0r4fBfPLmT1VOOrCMXdY" />
+
 # Plugins for Hermit-MD
 ![alt text](https://i.imgur.com/rKAmXiH.jpeg)
 <br>
