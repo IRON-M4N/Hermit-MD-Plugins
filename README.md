@@ -61,6 +61,8 @@
 `Fun Pack`
 `Uncensored`
 `Oppai`
+`Teddy`
+`White`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -857,6 +859,34 @@ https://gist.github.com/IRONMAN444FF/c5365255f7b48a5f5342d9c75d9e1082/raw
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
 ᴩᴀᴛᴛᴇʀɴ : ᴏᴩᴩᴀɪ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Teddy </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/512ba3c147b2de3d60f2893cfbcf44cf
+```
+ᴜꜱᴇᴀɢᴇ : ᴀɴɪᴍᴀᴛᴇᴅ ᴛᴇxᴛ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴛᴇᴅᴅч
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ White </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/c17bd3d622cf537dc1fa6bcc237767fc
+```
+ᴜꜱᴇᴀɢᴇ : ᴀᴜᴅɪᴏ ɪɴᴛᴏ ᴡʜɪᴛᴇ ᴠɪᴅᴇᴏ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴡʜɪᴛᴇ
 <br />
 <br />
 <br />
