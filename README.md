@@ -63,6 +63,10 @@
 `Oppai`
 `Teddy`
 `White`
+`Mori`
+`Raiden`
+`Marin`
+`Gay`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -890,7 +894,62 @@ https://gist.github.com/lokixjs/c17bd3d622cf537dc1fa6bcc237767fc
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Mori </h1>
 
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/2cb6db3b4ac060440f57c87e0ce34d26
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇꜱ ᴏꜰ ᴠᴛᴜʙᴇʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴏʀɪ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Raiden </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/73575b3bce702a679675a5f5c4fcb500
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇꜱ ᴏꜰ ʀᴀɪᴅᴇɴ ꜰʀᴏᴍ ɢᴇɴꜱʜɪɴ ɪᴍᴩᴀᴄᴛ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ʀᴀɪᴅᴇɴ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Marin </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/ee4ec565dcc8c7e54de69ae5341a8315
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇꜱ ᴏꜰ ᴍᴀʀɪɴ ᴋɪᴛᴀɢᴀᴡᴀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴀʀɪɴ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Gay </h1>
+
+© :<a href="https://github.com/lokixjs">LOKI SER 🌟</a>
+
+```js
+https://gist.github.com/lokixjs/d898720274a9e4305fb64de4218b2c45
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴀч ꜰɪɴᴅᴇʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ʟᴏᴋɪ ꜱᴇʀ <br />
+ᴩᴀᴛᴛᴇʀɴ : ɢᴀч
+<br />
+<br />
+<br />
 
 
 </details> 
