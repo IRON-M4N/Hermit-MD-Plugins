@@ -66,16 +66,16 @@
 `Mori`
 `Raiden`
 `Marinㅤ`
-`Gayㅤ`
-` Upscale `
-` Dxd `
-` Overflow `
-` device `
-` populationㅤ`
-` Nhentaiㅤ`
-` Tempmailㅤ`
-` apkㅤㅤ`
-`ㅤ Theㅤ Eminenceㅤ inㅤ Shadowㅤ`
+`Gay`
+`Upscale`
+`Dxd`
+`Overflow`
+`device`
+`population`
+`Nhentai`
+`Tempmail`
+`apk`
+`TheㅤEminenceㅤinㅤShadow`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
