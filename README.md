@@ -1035,7 +1035,48 @@ https://gist.github.com/IRONMAN444FF/b08b20b05495e98ea0abb676647be21c
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Device </h1>
 
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/7ac9f7a8b2645176ce3ad8a223520fcf
+```
+ᴜꜱᴇᴀɢᴇ : ᴅᴇᴠɪᴄᴇ ꜱᴇᴀʀᴄʜ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴅᴇᴠɪᴄᴇ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ The Eminence In Shadow  </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/65ef9eae4bdf997da2272a3e1ee9350b
+```
+ᴜꜱᴇᴀɢᴇ : ᴛʜᴇ ᴇᴍɪɴᴇɴᴄᴇ ɪɴ ꜱʜᴀᴅᴏᴡ ꜱᴇᴀꜱᴏɴ 1 ᴅᴏᴡɴʟᴏᴀᴅᴇʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴛᴇɪꜱ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Population </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/b7d671bf6c8181754dc42a982a473918
+```
+ᴜꜱᴇᴀɢᴇ : ɢᴇᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴘᴏᴘᴜʟᴀᴛɪᴏɴ ᴋɪᴛᴀɢᴀᴡᴀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴘᴏᴘᴜʟᴀᴛɪᴏɴ
+<br />
+<br />
+<br />
 <br>
      
 <details close>
