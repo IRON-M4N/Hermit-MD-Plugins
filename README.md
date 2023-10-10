@@ -993,20 +993,49 @@ https://gist.github.com/IRONMAN444FF/a92a8bf52d9591c6693b9a2090232a98
 <br />
 <br />
 <br />
-<h4 align="center">  ᐉ Marin </h1>
+<h4 align="center">  ᐉ Apk </h1>
 
 © :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
 
 ```js
-https://gist.github.com/IRONMAN444FF/ee4ec565dcc8c7e54de69ae5341a8315
+https://gist.github.com/IRONMAN444FF/87a39cd65cdd2abf862686802d60e0c4
 ```
-ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇꜱ ᴏꜰ ᴍᴀʀɪɴ ᴋɪᴛᴀɢᴀᴡᴀ <br />
+ᴜꜱᴇᴀɢᴇ : ᴀᴘᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ <br />
 ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
 ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
-ᴩᴀᴛᴛᴇʀɴ : ᴍᴀʀɪɴ
+ᴩᴀᴛᴛᴇʀɴ : ᴀᴘᴋ
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Overflow 18+ </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/6a316594237b211d451c9086a23b3aaa
+```
+ᴜꜱᴇᴀɢᴇ : ᴅᴏᴡɴʟᴏᴀᴅ ᴏᴠᴇʀꜰʟᴏᴡ ᴀʟʟ ᴇᴘɪꜱᴏᴅᴇꜱ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴏᴠᴇʀꜰʟᴏᴡ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ High School Dxd S1 </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/b08b20b05495e98ea0abb676647be21c
+```
+ᴜꜱᴇᴀɢᴇ : ᴅᴏᴡɴʟᴏᴀᴅ ʜɪɢʜ ꜱᴄʜᴏᴏʟ ᴅxᴅ ꜱᴇᴀꜱᴏɴ 1 <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴅxᴅ
+<br />
+<br />
+<br />
+
 <br>
      
 <details close>
