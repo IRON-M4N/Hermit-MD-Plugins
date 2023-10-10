@@ -65,8 +65,17 @@
 `White`
 `Mori`
 `Raiden`
-`Marin`
-`Gay`
+`Marinㅤ`
+`Gayㅤ`
+` Upscale `
+` Dxd `
+` Overflow `
+` device `
+` populationㅤ`
+` Nhentaiㅤ`
+` Tempmailㅤ`
+` apkㅤㅤ`
+`ㅤ Theㅤ Eminenceㅤ inㅤ Shadowㅤ`
 
 <h4 align="center">  ᐉ All Plugin </h1>
 
@@ -1077,8 +1086,13 @@ https://gist.github.com/IRONMAN444FF/b7d671bf6c8181754dc42a982a473918
 <br />
 <br />
 <br />
+
 <br>
-     
+
 <details close>
 <summary>📞 Contact Us</summary>
-<a href="https://wa.me/917025673121?text=_Cᴏɴᴛᴀᴄᴛ+Iʀᴏɴ+Mᴀɴ_+*https://wa.me/12138145976*" target="blank"><img align="center" src="https://raw.githubusercontent.com/IRONMAN444FF/Update-Wa-MOD/main/Contact%20us.png" alt="Contact Us" /></a>
+
+- Ꮖʀᴏɴ⚡Ꮇᴀɴ√ [Click Here](https://wa.me/41782221168)
+- ʟᴏᴋɪ🌟 [Click Here](https://wa.me/917025673121)
+
+</details>
