@@ -964,9 +964,49 @@ https://gist.github.com/IRONMAN444FF/e4a05dbddf8c5e00cf845f8a40600d12
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ TempMail </h1>
 
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/6f3aad7e2f188a21750191224eb75a76
+```
+ᴜꜱᴇᴀɢᴇ : ᴛᴇᴍᴘᴍᴀɪʟ ɢᴇɴᴇʀᴀᴛᴏʀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴛᴇᴍᴘᴍᴀɪʟ
+<br />
+<br />
+<br />
 </details> 
-    
+<h4 align="center">  ᐉ Nhentai 18+ </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/a92a8bf52d9591c6693b9a2090232a98
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ꜱᴀᴜᴄᴇ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ɴʜᴇɴᴛᴀɪ
+<br />
+<br />
+<br />
+<h4 align="center">  ᐉ Marin </h1>
+
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/ee4ec565dcc8c7e54de69ae5341a8315
+```
+ᴜꜱᴇᴀɢᴇ : ʀᴀɴᴅᴏᴍ ɪᴍᴀɢᴇꜱ ᴏꜰ ᴍᴀʀɪɴ ᴋɪᴛᴀɢᴀᴡᴀ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴍᴀʀɪɴ
+<br />
+<br />
+<br />
 <br>
      
 <details close>
