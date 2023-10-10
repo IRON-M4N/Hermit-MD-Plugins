@@ -950,7 +950,20 @@ https://gist.github.com/lokixjs/46b723b4d56a5d92f131287ae494c570
 <br />
 <br />
 <br />
+<h4 align="center">  ᐉ Upscale </h1>
 
+© :<a href="https://github.com/iro man444ff">Ꮖʀᴏɴ⚡Ꮇᴀɴ√</a>
+
+```js
+https://gist.github.com/IRONMAN444FF/e4a05dbddf8c5e00cf845f8a40600d12
+```
+ᴜꜱᴇᴀɢᴇ : ᴜᴘꜱᴄᴀʟᴇ ᴛʜᴇ Qᴜᴀʟɪᴛʏ ᴏꜰ ʀᴇᴘʟɪᴇᴅ ɪᴍᴀɢᴇ <br />
+ꜱᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀꜱɪᴏɴ : ʜᴇʀᴍɪᴛ-ᴍᴅ <br />
+ᴍᴀᴅᴇ ʙч : ɪʀᴏɴ ᴍᴀɴ <br />
+ᴩᴀᴛᴛᴇʀɴ : ᴜᴘꜱᴄᴀʟᴇ
+<br />
+<br />
+<br />
 
 </details> 
     
