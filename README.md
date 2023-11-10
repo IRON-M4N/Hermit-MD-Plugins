@@ -3,7 +3,12 @@
 # Plugins for Hermit-MD
 ![alt text](https://i.imgur.com/rKAmXiH.jpeg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF0000&width=435&lines=Plugins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF0000&width=435&lines=No+More+Plugins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1500&center=true&vCenter=true&random=false&width=435&lines=Moved+to+Jarvis-MD)](https://git.io/typing-svg)
+<br>
+‎‎ ㅤㅤㅤㅤ‎ Click to visit [Jarvis-MD](https://github.com/Loki-Xer/Jarvis-MD)
+<br>
+<br>
 `xplugin`
 `Waifu`
 `Gojo`
